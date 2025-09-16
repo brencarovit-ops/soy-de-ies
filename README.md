@@ -13,6 +13,3 @@
 </body>
 </html>
 
-git add index.html
-git commit -m "Agrega página básica Soy de IES con logo y link"
-git push origin main
